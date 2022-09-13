@@ -1,0 +1,14 @@
+C:\Users\ayrto\source\repos\AluraCSharp\Parte5\ByteBank\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.dll
+C:\Users\ayrto\source\repos\AluraCSharp\Parte5\ByteBank\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.pdb
+C:\Users\ayrto\source\repos\AluraCSharp\Parte5\ByteBank\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csproj.AssemblyReference.cache
+C:\Users\ayrto\source\repos\AluraCSharp\Parte5\ByteBank\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\ayrto\source\repos\AluraCSharp\Parte5\ByteBank\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.dll
+C:\Users\ayrto\source\repos\AluraCSharp\Parte5\ByteBank\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.pdb
+C:\Users\ayrto\source\repos\AluraCSharp\Parte5\ByteBank\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.xml
+C:\Users\ayrto\source\repos\AluraCSharp\Parte6\ByteBank\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.xml
+C:\Users\ayrto\source\repos\AluraCSharp\Parte6\ByteBank\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.dll
+C:\Users\ayrto\source\repos\AluraCSharp\Parte6\ByteBank\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.pdb
+C:\Users\ayrto\source\repos\AluraCSharp\Parte6\ByteBank\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csproj.AssemblyReference.cache
+C:\Users\ayrto\source\repos\AluraCSharp\Parte6\ByteBank\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\ayrto\source\repos\AluraCSharp\Parte6\ByteBank\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.dll
+C:\Users\ayrto\source\repos\AluraCSharp\Parte6\ByteBank\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.pdb

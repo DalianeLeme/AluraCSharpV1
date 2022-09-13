@@ -1,0 +1,8 @@
+C:\Users\ayrto\source\repos\ByteBank_1\ByteBank_1\bin\Debug\ByteBank_1.exe.config
+C:\Users\ayrto\source\repos\ByteBank_1\ByteBank_1\bin\Debug\ByteBank_1.exe
+C:\Users\ayrto\source\repos\ByteBank_1\ByteBank_1\bin\Debug\ByteBank_1.pdb
+C:\Users\ayrto\source\repos\ByteBank_1\ByteBank_1\obj\Debug\ByteBank_1.csproj.AssemblyReference.cache
+C:\Users\ayrto\source\repos\ByteBank_1\ByteBank_1\obj\Debug\ByteBank_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ayrto\source\repos\ByteBank_1\ByteBank_1\obj\Debug\ByteBank_1.csproj.CoreCompileInputs.cache
+C:\Users\ayrto\source\repos\ByteBank_1\ByteBank_1\obj\Debug\ByteBank_1.exe
+C:\Users\ayrto\source\repos\ByteBank_1\ByteBank_1\obj\Debug\ByteBank_1.pdb

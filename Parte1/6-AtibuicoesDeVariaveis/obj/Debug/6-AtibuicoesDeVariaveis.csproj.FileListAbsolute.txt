@@ -1,0 +1,8 @@
+C:\Users\ayrto\source\repos\AprendendoCSharp\6-AtibuicoesDeVariaveis\bin\Debug\6-AtibuicoesDeVariaveis.exe.config
+C:\Users\ayrto\source\repos\AprendendoCSharp\6-AtibuicoesDeVariaveis\bin\Debug\6-AtibuicoesDeVariaveis.exe
+C:\Users\ayrto\source\repos\AprendendoCSharp\6-AtibuicoesDeVariaveis\bin\Debug\6-AtibuicoesDeVariaveis.pdb
+C:\Users\ayrto\source\repos\AprendendoCSharp\6-AtibuicoesDeVariaveis\obj\Debug\6-AtibuicoesDeVariaveis.csproj.AssemblyReference.cache
+C:\Users\ayrto\source\repos\AprendendoCSharp\6-AtibuicoesDeVariaveis\obj\Debug\6-AtibuicoesDeVariaveis.csproj.SuggestedBindingRedirects.cache
+C:\Users\ayrto\source\repos\AprendendoCSharp\6-AtibuicoesDeVariaveis\obj\Debug\6-AtibuicoesDeVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\ayrto\source\repos\AprendendoCSharp\6-AtibuicoesDeVariaveis\obj\Debug\6-AtibuicoesDeVariaveis.exe
+C:\Users\ayrto\source\repos\AprendendoCSharp\6-AtibuicoesDeVariaveis\obj\Debug\6-AtibuicoesDeVariaveis.pdb
